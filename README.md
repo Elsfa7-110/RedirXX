@@ -51,7 +51,15 @@ python3 setup.py install
 2. Run the following command:
 
 ```bash
-redirxx  -f urls.txt -t 30  
+redirxx  -f urls.txt -t 30
+
+
+-u --url "Single URL to scan"
+-f --file "File containing URLs to scan"
+-t --threads "Number of threads for file scanning (default: 10)
+-o --output "Output file to save results in JSON format"
+-p --payloads "File containing custom payloads"
+-h --help "Show this help menu"
 ```
 
 ---
