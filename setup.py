@@ -17,8 +17,8 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "redirx=redirXX:main",  
-            "RedirXploit=redirXX:main",  
+            "redirxx=redirXX:main",  
+            "RedirXX=redirXX:main",  
         ],
     },
     classifiers=[
