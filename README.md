@@ -1,7 +1,6 @@
 <div align="center">
 
-# **__RedirXX__** 🚨  
-## **__Open Redirect Vulnerability Scanner__**
+# **__RedirXX__** 
 </div>
 
 **RedirXX** is a powerful open redirect vulnerability scanner designed for security researchers and penetration testers. It helps identify open redirect vulnerabilities in web applications efficiently and quickly. ⚡
