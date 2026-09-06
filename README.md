@@ -1,13 +1,10 @@
 <div align="center">
 
-# **__RedirXploit__** 🚨  
+# **__RedirXX__** 🚨  
 ## **__Open Redirect Vulnerability Scanner__**
-
-![RedirXploit Logo](https://github.com/AngixBlack/RedirXploit/blob/main/image/logo.png)
-
 </div>
 
-**RedirXploit** is a powerful open redirect vulnerability scanner designed for security researchers and penetration testers. It helps identify open redirect vulnerabilities in web applications efficiently and quickly. ⚡
+**RedirXX** is a powerful open redirect vulnerability scanner designed for security researchers and penetration testers. It helps identify open redirect vulnerabilities in web applications efficiently and quickly. ⚡
 
 </div>
 
@@ -40,8 +37,8 @@ This tool is intended for **ethical use only**. Please ensure that you have perm
 To get started, clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/AngixBlack/RedirXploit.git
-cd RedirXploit
+git clone https://github.com/Elsfa7-110/RedirXX.git
+cd RedirXX
 chmod +x setup.py
 python3 setup.py install 
 ```
@@ -54,7 +51,7 @@ python3 setup.py install
 2. Run the following command:
 
 ```bash
-redirx  -f urls.txt -t 30  
+redirxx  -f urls.txt -t 30  
 ```
 
 ---
